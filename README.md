@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg">
+<img align="center" alt="Coding" width="800" src="https://cdn.wallpapersafari.com/54/82/dO592k.jpg">
 <h1 align="center">Hi 👋, I'm Asanka Ranaweera</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 <img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
