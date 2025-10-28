@@ -3,7 +3,6 @@
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 <img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21182396&label=Profile%20views&color=0e75b6&style=flat" alt="it21182396" /> </p>
 
 - 🌱 I’m currently learning **Spring boot**
